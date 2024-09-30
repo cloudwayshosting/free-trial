@@ -4,7 +4,7 @@ Are you looking for a reliable cloud hosting solution without spending a dime up
 
 Let’s get started!
 
-<a href="https://bloggingstart.com/cloudways/DigitalOcean">Get $100 Cloudways Free Trial Credit Now >></a>
+<center><a href="https://bloggingstart.com/cloudways/DigitalOcean">Get $100 Cloudways Free Trial Credit Now >></a></center>
 <br></br>
 
 <h3><strong>Why Opt for a Free Trial?</strong></h3>
